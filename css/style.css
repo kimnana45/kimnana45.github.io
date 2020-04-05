@@ -1,0 +1,66 @@
+.navbar {
+    width: 100vw;
+    color: #880000;
+    padding: 20%; 
+} 
+h1 { background: #008080;
+    color: rgb(228, 231, 23);
+    font-family: 'Abril Fatface', cursive;
+    text-align: center;
+    padding: 15%, 15%;
+    margin-bottom: unset;
+
+}
+h2 { text-align: center;
+    font-family: 'IBM Plex Serif', serif;
+    color: #ffa500;
+    margin:0; 
+
+}
+.container 
+    {background: #778899;
+    color: rgb(4, 4, 44);
+    padding: 5%;
+    margin-top: 5px;
+
+}
+.porfolio container
+    {background: #fffead;
+     padding: 10%;
+     margin: auto;
+
+
+}
+
+ul{     margin: 0;
+    padding: 0;
+    display:  flex;
+
+}
+
+body { margin: 0; 
+
+}
+li {    list-style-type: none;
+    margin: 0 2vw;
+    font-size: 3vh;
+}
+
+a{      text-decoration: none;
+    color:black;
+    padding: 2vw;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+a:hover {background-color: #ffdead;
+
+}
+footer {padding: 5px;
+    margin-top: 25px;
+    background: #008080;
+    border: darkgoldenrod;
+    border-width: 50px;
+}
+h4 {text-align: center;
+    color: rgb(228, 231, 23);
+    
+}
